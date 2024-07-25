@@ -1,6 +1,6 @@
-# Welcome to the Bavarian Summer Stay
+# Welcome to "Your Bavarian Summer Stay!"
 
-I created this project to showcase a possible website for a local hotel in Bavaria, Germany. This website displays all the necessities a hotel would need to provide to their patrons, along with a booking feature should you choose to stay! 
+I created this project to showcase a possible website for a local hotel in Bavaria, Germany. This website displays all the necessities a hotel would need to provide to their patrons, along with a booking feature should you choose to stay!
 
 <!-- Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!). -->
 
